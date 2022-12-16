@@ -18,13 +18,13 @@ Webmin is a web-based interface for system administration for Unix. Using any mo
 </pre>
 
 #  Accessing the Web GUI Interface
-The container publsihes Webmin on all available IP addresses using port 10000
+<p>The container publsihes Webmin on all available IP addresses using port 10000</p>
 
-Browse to https://[Switch or Host IP Address>]:10000 to get to the Web GUI interface.
-If you browse to the HTTP address it will re-direct you
-Default username and password are:
-Username: root
-Password: password
+<p>Browse to https://[Switch or Host IP Address&gt;]:10000 to get to the Web GUI interface.<br />
+If you browse to the HTTP address it will re-direct you<br />
+Default username and password are:<br />
+Username: root<br />
+Password: password</p>
 
 # Versions
 <ul>
